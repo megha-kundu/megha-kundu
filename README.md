@@ -10,7 +10,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 
 Check out my latest projects and development work:
 
-🌐 [Visit My Portfolio](https://meghakundu-portfolio.netlify.app/)
+🌐 [Visit My Portfolio](https://megha-kundu-portfolio.netlify.app/)
 
 ---
 
