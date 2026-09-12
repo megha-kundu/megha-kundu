@@ -40,10 +40,13 @@ Check out my latest projects and development work:
 ## 📌 Featured Projects
 
 - ✈️ Airline Booking System
-- 🏨 Azure Resort
-- 🎬 Movie Search App
+- 🎮 Gaming Hub
+- 🛒 Eccomerce Store 
+- 🩺 HealthCare Dashboard 
+- 🎬 MOVIE & SERIES DISCOVERY APP
 - 🍽️ Restaurant Website
 - 🥖 Bakery Website
+- 🏨 Resort Booking Website 
 - 💼 Personal Portfolio
 
 ---
